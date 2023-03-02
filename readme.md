@@ -4,7 +4,9 @@ A simple development environment for styling single or multiple HTML pages, that
 ## Scripts
 
 npm run start - to start the development server
+
 npm run build - to build a "dist" folder for production
+
 npm run build:dev - to build a non-minified "dist" folder
 
 ## Use Cases
